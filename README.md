@@ -33,3 +33,7 @@ variable, and it can also remember words if you write (remember) before saying s
 
 *PS: This code was written by me to understand AI and memory management.*  
 *It was written during my practical training, and new library functions will be added in the future.*  
+
+
+### Contacts 
+Telegram: https://t.me/B0TlK
